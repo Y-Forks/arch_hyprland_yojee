@@ -1,13 +1,9 @@
 
 ## Arch Hyprland Install Script 
 
-<img align="center" width="830" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Hyprland-Dots-Showcase/rofi.png" />
+<img align="center" width="830" src="code.jpg" />
 
-
-- This Repo does not contain Hyprland Dots or configs! Dotfiles can be checked here [`Hyprland-Dots`](https://github.com/JaKooLit/Hyprland-Dots) . During installation, if you opt to copy installation, it will be downloaded from that centralized repo.
-- Hyprland-Dots use are constantly evolving / improving. you can check CHANGELOGS here [`Hyprland-Dots-Changelogs`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Changelogs) 
-- Since the Hyprland-Dots are evolving, some of the screenshots maybe old
-- the wallpaper offered to be downloaded towards the end is from this [`REPO`](https://github.com/JaKooLit/Wallpaper-Bank)
+- the wallpaper offered to be downloaded towards the end is from this [`REPO`](https://github.com/yojeero/wallpapers)
 
 #### Prerequisites
 - Minimal Arch Linux installed.
@@ -32,7 +28,7 @@
 > clone this repo (latest commit only) to reduce file size download by using git. Change directory, make executable and run the script
 
 ```bash
-git clone --depth=1 https://github.com/JaKooLit/Arch-Hyprland.git
+git clone --depth=1 https://github.com/Y-Forks/arch-hyprland-yojee
 cd Arch-Hyprland
 chmod +x install.sh
 ./install.sh
